@@ -1,0 +1,23 @@
+{
+	"RESETPASSWORD": {
+		"TITLE": "Reinicie sua senha",
+		"EMAIL_ADRESS": "Email",
+		"PASSWORD": "Senha",
+		"PASSWORD_CONFIRM": "Senha (Confirmação)",
+		"UPDATE_PASSWORD": "REDEFINA MINHA SENHA",
+		"GO_LOGIN": "Voltar para a tela de autenticação",
+		"ERRORS": {
+			"EMAIL_REQUIRED": "Email é obrigatório",
+			"EMAIL_MUST_VALID": "Email não é válido",
+			"PASSWORD_REQUIRED": "Senha é obrigatório",
+			"PASSWORD_CONFIRM_REQUIRED": "Confirmação é obrigatória"
+		},
+		"DIALOGS": {
+			"DONE": {
+				"TITLE": "Sucesso",
+				"CONTENT": "Sua senha foi reiniciada com sucesso!",
+				"CLOSE": "Fechar"
+			}
+		}		
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"PRESS_VERIFICATIONS": {
+		"TITLE": "Verificações",
+		"NAME": "Verificação",
+		"DIALOGS": {
+			"VERIFICATION": {
+				"TITLE": "Verificação"
+			}
+		}
+	}
+	
+}

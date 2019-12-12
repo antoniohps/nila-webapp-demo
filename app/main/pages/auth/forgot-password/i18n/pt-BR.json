@@ -1,0 +1,20 @@
+{
+
+	"FORGOTPASSWORD": {
+		"TITLE": "Recuperar sua senha",
+		"EMAIL_ADRESS": "Email",
+		"SEND_RESET_LINK": "ENVIAR LINK PARA REINICIAR",
+		"GO_LOGIN": "Voltar para a tela de autenticação",
+		"ERRORS": {
+			"EMAIL_REQUIRED": "Email é obrigatório",
+			"EMAIL_MUST_VALID": "Campo email é inválido"
+		},
+		"DIALOGS": {
+			"DONE": {
+				"TITLE": "Restauração de senha solicitada",
+				"CONTENT": "Um email para restauração da senha foi enviado. Por favor, verifique seu email e siga as instruções contída neste!",
+				"CLOSE": "Fechar"
+			}
+		}
+	}
+}

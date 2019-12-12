@@ -1,0 +1,14 @@
+{
+	"PRESS_CLINICS": {
+		"TITLE": "Clínicas",
+		"NAME": "Clínica",
+		"DIALOGS": {
+			"NEW": {
+				"TITLE": "Nova Clínica",
+				"CORPORATE_INFO": "Informações da Clínica",
+				"ADMINISTRATOR": "Responsável"
+			}
+		}
+	}
+	
+}

@@ -1,0 +1,77 @@
+{
+	"APP": {
+		"NAME": "NilaPress",
+		"VENDOR": "Selsan.Tech"
+	},
+	"GLOBAL": {
+	
+		"EMAIL": "Email",
+
+		"SEARCH": "Buscar",
+		"CLOSE": "Fechar",
+		"CANCEL": "Cancelar",
+		"CONFIRM": "Confirmar",
+
+		"LAST_UPDATE": "Atualização",
+		
+		"SAVE": "Salvar",
+		"NEXT": "Próximo",		
+		"CONTINUE": "Continuar",		
+		
+		"ABBR": {
+			"DAY": "d",
+			"MONTH": "m",
+			"YEAR": "a"
+		}
+	},
+	"ROLE": {
+		"STUDENT": "Estudante",
+		"TUTOR_MAIN": "Responsável Principal",
+		"TUTOR": "Responsável",
+		"MONITOR": "Monitor",
+		"PROFESSOR": "Professor",
+		"COMPANY_ADMIN": "Administrador"
+	},
+
+	"HOME": {
+		"INTRO_TITLE": "Benvindo ao SaídaFácil!",
+		"INTRO_DESCRIPTION": "A revolução na gestão escolar"
+	},
+	"REGISTER": {
+		"INTRO_TITLE": "Registre-se, é grátis!",
+		"INTRO_DESCRIPTION": "Venha fazer parte do sistema que faz uma revolução na gestão escolar",
+		
+		"TITLE": "Crie uma conta",
+		"DESCRIPTION": "Registrar uma conta é grátis. Teste!",
+		"NAME": "Nome",
+		"EMAIL": "Email",
+		"PASSWORD": "Senha",
+		"PASSWORD_CONFIRM": "Senha (Confirmação)",
+		"READ_ACCEPT": "Eu li e aceito",
+		"TERMS_COND": "os termos e as condições",
+		"CREATE_ACCOUNT": "CRIE MINHA CONTA",
+		"ALREADY_HAVE": "Já tem uma conta?",
+		"LOGIN": "Acessar",
+		"ERRORS": {
+			"USERNAME_REQUIRED": "Nome do usário é obrigatório",
+			"EMAIL_REQUIRED": "Email é obrigatório",
+			"EMAIL_MUST_VALID": "Email não é válido",
+			"EMAIL_HAS_ALREADY_BEEN_REGISTERED": "Email já está registrado e ativo",
+			"PASSWORD_REQUIRED": "Senha é obrigatória",
+			"PASSWORD_CONFIRM_REQUIRED": "Confirmação da senha é obrigatória",
+			"PASSWORD_CONFIRM_NOT_MATCH": "Senha de confirmação não confere",
+			"TERMS_REQUIRED": "Aceite os termos de condições antes de continuar",
+			"SERVER": {
+				"undefined": "Ops! Erro em nossos servidores. Por favor, tente novamente.",
+				"-1": "Ops! Erro em nossos servidores. Por favor, tente novamente."
+			}
+		},
+		"DIALOGS": {
+			"DONE": {
+				"TITLE": "Registro feito!",
+				"CONTENT": "Obrigado {0}! Seu registro foi feito com sucesso. Verifique seu email ({1}) para as próximas instruções.",
+				"CLOSE": "Fechar"
+			}
+		}
+	}
+}

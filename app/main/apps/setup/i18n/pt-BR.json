@@ -1,0 +1,9 @@
+{
+	"SETUP": {
+		"DONE": "Feito",
+		"FAIL": "Falhou",
+		"ACQUIRING_USER": "Obtendo usuário... ",
+		"ACQUIRING_PROFILE": "Definindo perfil... ",
+		"DEFINING_NAVIGATION": "Definindo navegação..."
+	}
+}

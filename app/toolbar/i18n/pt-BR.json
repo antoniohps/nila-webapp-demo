@@ -1,0 +1,12 @@
+{
+	"TOOLBAR": {
+		"TOGGLE_NAVIGATION": "Toggle navigation",
+		"TOGGLE_NAVIGATION_FOLD": "Toggle navigation fold",
+		"TOGGLE_NAVIGATION_MODE": "Toggle navigation mode",
+		"SEARCH": "Procurar",
+		"USER_SETTINGS": "Configurações",
+		"TOGGLE_QUICK_PANEL": "Toggle quick panel",
+		"MY_ACCOUNT": "Minha Conta",
+		"LOGOUT": "Sair"
+	}
+}

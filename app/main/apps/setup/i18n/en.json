@@ -1,0 +1,8 @@
+{
+	"SETUP": {
+		"DONE": "Done",
+		"FAIL": "Fail",
+		"ACQUIRING_USER": "Acquiring user... ",
+		"ACQUIRING_PROFILE": "Setting profile... "
+	}
+}

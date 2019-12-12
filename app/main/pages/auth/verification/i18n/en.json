@@ -1,0 +1,20 @@
+{
+	"VERIFICATION": {
+		"TITLE": "Verification Code",
+		"ID": "Id",
+		"CODE": "Code",
+		"VERIFY": "VERIFY",
+		"GO_LOGIN": "Go back to Login",
+		"ERRORS": {
+			"ID_REQUIRED": "Id field is required",
+			"CODE_REQUIRED": "Code field is required"
+		},
+		"DIALOGS": {
+			"DONE": {
+				"TITLE": "Verification Success",
+				"CONTENT": "Verification was done with success.",
+				"CLOSE": "Close"
+			}
+		}
+	}
+}

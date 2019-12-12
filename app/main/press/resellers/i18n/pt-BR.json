@@ -1,0 +1,14 @@
+{
+	"PRESS_RESELLERS": {
+		"TITLE": "Distribuidoras",
+		"NAME": "Distribuidora",
+		"DIALOGS": {
+			"NEW": {
+				"TITLE": "Nova Distribuidora",
+				"CORPORATE_INFO": "Informações da Distribuidora",
+				"ADMINISTRATOR": "Responsável"
+			}
+		}
+	}
+	
+}

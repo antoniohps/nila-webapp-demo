@@ -1,0 +1,37 @@
+{
+	"PSYCHOLOGIST": {
+	
+		"APPLICATIONS": {
+		
+			"DIALOGS": {
+			
+				"ACQUIRE": {
+				
+					"TITLE": "Atribuir Aplicação",
+					"CONTENT": "Confirma a delegação da aplicação para você?",
+					"SUCCESS": "Atribuída com Sucesso!"
+				
+				},
+				
+				"RELEASE": {
+				
+					"TITLE": "Liberar Aplicação",
+					"CONTENT": "Você está retirando sua atuação sobre esta aplicação. Assim, ela irá ficar disponível para que outro profissional possa atribui-la. Confirma liberação?",
+					"SUCCESS": "Liberada com Sucesso!"
+				
+				},		
+
+				"FINISH": {
+				
+					"TITLE": "Finalizar Aplicação",
+					"CONTENT": "Você está FINALIZANDO a aplicação. Após esta ação, um parecer será emitido e a aplicação não poderá mais ser alterada. Confirma finalização?",
+					"SUCCESS": "Finalizada com Sucesso!"
+				
+				}				
+			
+			} 
+		
+		}	
+	}
+	
+}

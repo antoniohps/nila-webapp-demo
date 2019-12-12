@@ -1,0 +1,20 @@
+{
+	"PRINCIPAL_DASHBOARD": {
+		"TITLE": "Dashboard",
+		"NAME": "Nome",
+		"REGISTER": "Registro",
+		"WIDGETS": {
+			"PSYCHOLOGIST": {
+				"CONTENT" : "Sou psicólogo(a) e quero me credenciar!"
+			}
+		},
+		"CPF": {
+			"MISSING": "CPF faltando em seu cadastro! Adicione."
+		},
+		"INVITATIONS":
+		{
+			"TITLE": "Convites"
+		}
+	}
+	
+}

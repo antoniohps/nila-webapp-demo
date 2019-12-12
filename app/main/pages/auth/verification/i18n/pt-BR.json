@@ -1,0 +1,20 @@
+{
+	"VERIFICATION": {
+		"TITLE": "Código de Verificação",
+		"ID": "Id",
+		"CODE": "Código",
+		"VERIFY": "VERIFICAR",
+		"GO_LOGIN": "Voltar para a tela de autenticação",
+		"ERRORS": {
+			"ID_REQUIRED": "Campo identificação é requerido",
+			"CODE_REQUIRED": "Campo código é requerido"
+		},
+		"DIALOGS": {
+			"DONE": {
+				"TITLE": "Sucesso",
+				"CONTENT": "Verificação foi feita com sucesso.",
+				"CLOSE": "Fechar"
+			}
+		}
+	}
+}

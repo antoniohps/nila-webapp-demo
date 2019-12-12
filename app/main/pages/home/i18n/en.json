@@ -1,0 +1,104 @@
+{
+	"APP": {
+		"NAME": "NilaPress",
+		"VENDOR": "Selsan.Tech"
+	},
+	"GLOBAL": {
+	
+		"EMAIL": "Email",
+	
+		"SEARCH": "Search",
+		"CLOSE": "Close",
+		"CANCEL": "Cancel",
+		"CONFIRM": "Confirm",
+
+		"SAVE": "Save",
+		"NEXT": "Next",
+		"CONTINUE": "Continue",
+		
+		"LAST_UPDATE": "Last update",
+		
+		"ABBR": {
+			"DAY": "d",
+			"MONTH": "m",
+			"YEAR": "y"
+		}
+	},
+	"ROLE": {
+		"STUDENT": "Student",
+		"TUTOR_MAIN": "Main Tutor",
+		"TUTOR": "Tutor",
+		"MONITOR": "Monitor",
+		"PROFESSOR": "Professor",
+		"COMPANY_ADMIN": "Admin"
+	},
+
+	"HOME": {
+		"INTRO_TITLE": "Welcome to the SaídaFácil!",
+		"INTRO_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper nisl erat, vel convallis elit fermentum pellentesque. Sed mollis velit facilisis facilisis viverra."
+	},
+	"LOGIN": {
+		"INTRO_TITLE": "Welcome to the SaídaFácil!",
+		"INTRO_DESCRIPTION": "Revolution into schools",
+		
+		"TITLE": "Log in to your account",
+		"DESCRIPTION": "Sed mollis velit facilisis facilisis viverra",
+		"EMAIL": "Email",
+		"PASSWORD": "Password",
+		"REMEMBER_ME": "Remember Me",
+		"FORGOT_PASSWORD": "Forgot Password?",
+		"LOG_IN": "LOG IN",
+		"OR": "OR",
+		"WITH_GOOGLE": "Log in with Google",
+		"WITH_FACEBOOK": "Log in with Facebook",
+		"DONT_HAVE_ACCOUNT": "Don't have an account?",
+		"CREATE_ACCOUNT": "Create an account",
+		"ERRORS": {
+			"EMAIL_REQUIRED": "Email field is required",
+			"EMAIL_MUST_VALID": "Email must be a valid e-mail address",
+			"PASSWORD_REQUIRED": "Password field is required",
+			"SERVER": {
+				"undefined": "Ops! Error on ours servers. Please, try again.",
+				"-1": "Ops! Error on ours servers. Please, try again.",
+				"422": "Email and password does not match"
+			}
+		}
+	},
+	"REGISTER": {
+		"INTRO_TITLE": "Register, it is free!",
+		"INTRO_DESCRIPTION": "Be part of the system that makes a revolution into schools",
+		
+		"TITLE": "Create an account",
+		"DESCRIPTION": "Registration for free. Try it!",
+		"NAME": "Name",
+		"EMAIL": "Email",
+		"PASSWORD": "Password",
+		"PASSWORD_CONFIRM": "Password (Confirm)",
+		"READ_ACCEPT": "I read and accept",
+		"TERMS_COND": "terms and conditions",
+		"CREATE_ACCOUNT": "CREATE MY ACCOUNT",
+		"ALREADY_HAVE": "Already have an account?",
+		"LOGIN": "Log in",
+		"ERRORS": {
+			"USERNAME_REQUIRED": "Username field is required",
+			"EMAIL_REQUIRED": "Email field is required",
+			"EMAIL_MUST_VALID": "Email must be a valid e-mail address",
+			"EMAIL_HAS_ALREADY_BEEN_REGISTERED": "Email has already been registered",
+			"PASSWORD_REQUIRED": "Password field is required",
+			"PASSWORD_CONFIRM_REQUIRED": "Password confirm field is required",
+			"PASSWORD_CONFIRM_NOT_MATCH": "Password confirmation does not match",
+			"TERMS_REQUIRED": "You must accept terms and conditions before submitting the form",
+			"SERVER": {
+				"undefined": "Ops! Error on ours servers. Please, try again.",
+				"-1": "Ops! Error on ours servers. Please, try again."
+			}
+		},
+		"DIALOGS": {
+			"DONE": {
+				"TITLE": "Registration done!",
+				"CONTENT": "Thanks {0}! Your registration was done with success. Please, check your email ({1}) for the next instructions.",
+				"CLOSE": "Close"
+			}
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"PRESS_USERS": {
+		"TITLE": "Usuários",
+		"NAME": "Nome",
+		"DIALOGS" : {
+			"NEW": {
+				"TITLE": "CONVIDAR USUÁRIO"
+			}
+		}
+	}
+	
+}

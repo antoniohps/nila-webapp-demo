@@ -1,0 +1,37 @@
+{
+	"REGISTER": {
+		"TITLE": "Crie uma conta",
+		"DESCRIPTION": "Registrar uma conta é grátis. Teste!",
+		"NAME": "Nome",
+		"EMAIL": "Email",
+		"PASSWORD": "Senha",
+		"PASSWORD_CONFIRM": "Senha (Confirmação)",
+		"READ_ACCEPT": "Eu li e aceito",
+		"TERMS_COND": "os termos e as condições",
+		"CREATE_ACCOUNT": "CRIE MINHA CONTA",
+		"ALREADY_HAVE": "Já tem uma conta?",
+		"LOGIN": "Acessar",
+		"ERRORS": {
+			"USERNAME_REQUIRED": "Nome é obrigatório",
+			"EMAIL_REQUIRED": "Email é obrigatório",
+			"EMAIL_MUST_VALID": "Email não é válido",
+			"EMAIL_HAS_ALREADY_BEEN_REGISTERED": "Email já está registrado e ativo",
+			"PASSWORD_REQUIRED": "Senha é obrigatória",
+			"PASSWORD_CONFIRM_REQUIRED": "Confirmação da senha é obrigatória",
+			"PASSWORD_CONFIRM_NOT_MATCH": "Senha de confirmação não confere",
+			"TERMS_REQUIRED": "Aceite os termos de condições antes de continuar",
+			"SERVER": {
+				"undefined": "Ops! Erro em nossos servidores. Por favor, tente novamente.",
+				"-1": "Ops! Erro em nossos servidores. Por favor, tente novamente.",
+				"601": "Email {0} já está em uso"
+			}
+		},
+		"DIALOGS": {
+			"DONE": {
+				"TITLE": "Registro feito!",
+				"CONTENT": "Obrigado {0}! Seu registro foi feito com sucesso. Verifique seu email ({1}) para as próximas instruções.",
+				"CLOSE": "Fechar"
+			}
+		}
+	}
+}
